@@ -10,14 +10,14 @@ profile right here: https://github.com/EswaranRajagopalan
 Project Specifications:
 
 • A Fruits dataset will be provided to you, and it consists of images
-of (1) apples, (2) oranges, (3) bananas and (4) a mix of fruits
+of (1) apples, (2) oranges, (3) bananas and (4) a mix of fruits<br>
 • Implement a CNN to recognize the 4 classes. Use the images in
-the “train” folder to train your image classifier
+the “train” folder to train your image classifier<br>
 • Test the accuracy of your image classifier using images from the
-“test” folder
+“test” folder<br>
 • Document what you did to increase the accuracy of your image
-classifier (e.g. image augmentation)
+classifier (e.g. image augmentation)<br>
 • Use Matplotlib to plot the loss and accuracy of your training
-(pick any of your better runs)
+(pick any of your better runs)<br>
 • Specify the best/final accuracy of your image classifier on the
-test data
+test data<br>
